@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
+Zúñiga Zamalloa</a>.
+  Currently, my research interests include visible light communication, Internet of Things, and machine learning for wireless communications.
 </p>
 
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
