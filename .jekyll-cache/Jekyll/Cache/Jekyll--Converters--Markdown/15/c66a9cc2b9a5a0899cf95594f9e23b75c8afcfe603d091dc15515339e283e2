@@ -1,5 +1,4 @@
-I"^<p><img src="https://placehold.it/200x200" alt="placeholder" title="Small example image" />
-<img src="/profile_photo.jpg" alt="img" />
+I"V<p><img align="right" src="https://hantingye.github.io/assets/images/profilephoto.jpg" />
 I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
 Zúñiga Zamalloa</a>.</p>
 
@@ -12,5 +11,13 @@ Zúñiga Zamalloa</a>.</p>
 <ul>
   <li>Master in Electronics and Communication Engineering,University of Electronic Science and Technology of China (UESTC), 2017.09-2020.06</li>
   <li>Bachelor in Communication Engineering, Chongqing University (CQU), 2013.09-2017.06</li>
+</ul>
+
+<h3 id="contact">Contact</h3>
+
+<ul>
+  <li>Email: H.Ye-1@tudelft.nl</li>
+  <li>Office: 2.W.860, West 2nd floor, <a href="https://iamap.tudelft.nl/poi/elektrotechniek-wiskunde-informatica/">Building 28</a></li>
+  <li>Address: Van Mourik Broekmanweg 6, 2628 XE Delft, The Netherlands</li>
 </ul>
 :ET
