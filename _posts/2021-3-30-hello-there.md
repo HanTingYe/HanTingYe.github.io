@@ -7,7 +7,7 @@ excerpt_separator:  <!--more-->
 
 I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
 Zúñiga Zamalloa</a>.
-<img align="right" src="https://hantingye.github.io/assets/images/profilephoto.jpg"/>
+<img align="left" src="https://hantingye.github.io/assets/images/profilephoto.jpg"/>
 
 ### Research interest
 
