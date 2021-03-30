@@ -3,12 +3,7 @@ layout: post
 title: Hello there！
 excerpt_separator:  <!--more-->
 ---
-![placeholder](https://placehold.it/200x200 "Small example image")
 ![profilephoto]({{ site.url }}/assets/images/profilephoto.jpg)
-
-<figure>
-<a><img src="{{site.url}}/assets/images/profilephoto.jpg"></a>
-</figure>
 I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
 Zúñiga Zamalloa</a>.
 
