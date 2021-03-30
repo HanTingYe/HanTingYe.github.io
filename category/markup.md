@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Publications
 ---
 
 Another sample category page.
