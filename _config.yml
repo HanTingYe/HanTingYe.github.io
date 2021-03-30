@@ -6,7 +6,7 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            Hanting Ye
 tagline:          'Damon'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'PhD student at the  <a href="https://www-tudelft-nl.tudelft.idm.oclc.org/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems" target="_blank">Embedded and Networked Systems Group</a> theme for <a href="https://www.tudelft.nl/en/" target="_blank">Delft University of Technology</a>, refreshed.'
 url:              https://hantingye.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
