@@ -9,11 +9,3 @@ title:            Hanting Ye
 tagline:          'Damon'
 description:      'PhD student at the <a href="https://www-tudelft-nl.tudelft.idm.oclc.org/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems" target="_blank">Embedded and Networked Systems Group</a>, <a href="https://www.tudelft.nl/en/" target="_blank">Delft University of Technology</a>.'
 url:              https://hantingye.github.io
-baseurl:          '/hydeout'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
-
-
