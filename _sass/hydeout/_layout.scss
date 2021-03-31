@@ -44,7 +44,6 @@ body {
     margin-top: 0;
   }
 
-  .site-title .back-arrow { margin-right: 0.5rem; }
 }
 
 .content {
@@ -82,6 +81,7 @@ body {
     display: none;
     font-size: 0.7rem;
   }
+  
   header ~ nav {
       display: flex;
 	  font-size: 1.4rem;
