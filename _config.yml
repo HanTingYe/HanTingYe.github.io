@@ -8,7 +8,8 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Hanting Ye
 tagline:          'Damon'
-description:      'PhD student, <a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>.'
+description:      'PhD student,  
+<a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>.'
 url:              https://hantingye.github.io
 
 

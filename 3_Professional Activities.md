@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Activities
+title: Activities
 sidebar_link: true
 ---
 <strong>Reviewer of Journals:
