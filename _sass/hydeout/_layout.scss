@@ -282,10 +282,12 @@ body {
 #sidebar .site-title {
   color: $sidebar-title-color;
   a { color: inherit; }
+  font-size: 1.6rem;
 }
 
 #sidebar nav {
   display: flex;
+  font-size: 1.4rem;
 }
 
 #sidebar-nav-links {
