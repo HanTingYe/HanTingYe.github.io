@@ -76,12 +76,16 @@ body {
   header ~ nav,
   
 
+
   
   p.lead {
     display: none;
     font-size: 0.7rem;
   }
-
+  header ~ nav {
+      display: flex;
+	  font-size: 1.4rem;
+    }  
 }
 
 // Make header elements blend into sidebar / background
