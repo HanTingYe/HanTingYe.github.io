@@ -5,8 +5,9 @@ sidebar_link: true
 ---
 <strong>Reviewer of Journals:
 
-* IEEE Transactions on Communications
-* IEEE Wireless Communications Letters
+* IEEE Transactions on Communications (TCOM)
+* IEEE Internet of Things Journal (IoT-J)
+* IEEE Wireless Communications Letters (WCL)
 
 <strong>Local Arrangements Co-Chairs:
 
