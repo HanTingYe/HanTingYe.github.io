@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Books and Notes
+title: Useful Links
 ---
 
 <strong>Useful Books and Documents:

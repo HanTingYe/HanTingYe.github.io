@@ -6,7 +6,7 @@ excerpt_separator:  <!--more-->
 
 <img align="right" src="https://hantingye.github.io/assets/images/profilephoto.jpg"/>
 I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
-Zúñiga Zamalloa</a> at the [ENS Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) &thinsp;of the Computer Science Department, Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS), [TU Delft](https://www.tudelft.nl/en/), The Netherlands.
+Zúñiga Zamalloa</a> at the [Embedded and Networked Systems (ENS) Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) of the Computer Science Department, Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/), The Netherlands.
 
 ### Research interest
 
@@ -15,7 +15,7 @@ Currently, my research interests include visible light communication, Internet o
 
 ### Education
 
-* Master in Electronics and Communication Engineering,University of Electronic Science and Technology of China (UESTC), 2017.09-2020.06
+* Master in Electronics and Communication Engineering, University of Electronic Science and Technology of China (UESTC), 2017.09-2020.06
 * Bachelor in Communication Engineering, Chongqing University (CQU), 2013.09-2017.06
 
 ### Contact

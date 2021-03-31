@@ -7,7 +7,7 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Hanting Ye
 tagline:          'Damon'
-description:      'PhD student, &emsp;&emsp;<a href="https://www-tudelft-nl.tudelft.idm.oclc.org/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems" target="_blank">Embedded and Networked Systems (ENS) Group</a>, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.tudelft.nl/en/" target="_blank">Delft University of Technology (TU Delft)</a>.'
+description:      'PhD student, <a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>.'
 url:              https://hantingye.github.io
 
 
@@ -61,6 +61,5 @@ email: H.Ye-1@tudelft.nl
 linkedin: https://www.linkedin.com/in/hanting-ye-b8585b114/
 
 hydeout:
-  version:          CV310321
   repo:             https://github.com/hantingye
 
