@@ -20,6 +20,6 @@ Currently, my research interests include visible light communication, Internet o
 
 ### Contact
 
-* Email: H.Ye-1@tudelft.nl
+* Email: [H.Ye-1@tudelft.nl](mailto: H.Ye-1@tudelft.nl)
 * Office: 2.W.860, West 2nd floor, [Building 28](https://iamap.tudelft.nl/poi/elektrotechniek-wiskunde-informatica/)
 * Address: Van Mourik Broekmanweg 6, 2628 XE Delft, The Netherlands
