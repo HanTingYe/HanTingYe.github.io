@@ -16,7 +16,7 @@ Currently, my research interests include visible light communication, Internet o
 ### Education
 
 * Master in Electronics and Communication Engineering, University of Electronic Science and Technology of China (UESTC), 2017.09-2020.06
-* Bachelor in Communication Engineering, Chongqing University (CQU), 2013.09-2017.06
+* Bachelor in Communication Engineering with Honors, Chongqing University (CQU), 2013.09-2017.06
 
 ### Contact
 
