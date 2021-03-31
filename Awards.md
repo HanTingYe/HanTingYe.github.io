@@ -16,7 +16,7 @@ sidebar_link: true
 
 <strong>Honors:
 
-* 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Excellent student leader of UESTC
+* 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Excellent student leader Awards of UESTC
 * 2018, 2019&emsp;Outstanding Student Awards of UESTC
 * 2017&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Outstanding Graduates Awards of Chongqing province *(top 0.5%)*
 * 2017&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Outstanding Graduates Awards of CQU
