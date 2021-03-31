@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme: fongandrew/hydeout
+
 
 
 # Setup
@@ -43,7 +43,7 @@ defaults:
       layout: post
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  flase
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
