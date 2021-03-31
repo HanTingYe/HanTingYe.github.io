@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 <strong>Conference:
 
-* 2021&emsp;IEEE INFOCOM 2021 student confernece award
+* 2021&emsp;IEEE INFOCOM 2021 student conference award
 
 <strong>Competition Activities:
 
