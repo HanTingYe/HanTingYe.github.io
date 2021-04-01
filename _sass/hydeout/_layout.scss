@@ -78,6 +78,7 @@ body {
   p.lead {
     display: none;
     font-size: 0.7rem;
+	margin-bottom: 0;
   }
   
       header ~ * {
@@ -288,6 +289,7 @@ body {
 #sidebar nav {
   display: flex;
   font-size: 1.4rem;
+  margin-top: 0;
 }
 
 #sidebar-nav-links {
@@ -297,7 +299,7 @@ body {
 #sidebar-icon-links {
   flex-flow: row wrap;
   justify-content: center;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   max-width: 100%;
 
   @media (min-width: $large-breakpoint) {

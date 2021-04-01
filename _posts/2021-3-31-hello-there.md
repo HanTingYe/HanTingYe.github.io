@@ -4,7 +4,6 @@ title: Hello there！
 excerpt_separator:  <!--more-->
 ---
 
-<img align="right" src="https://hantingye.github.io/assets/images/HantingYe.jpg" width = "150" />
 I am a PhD student supervised by <a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank">Dr. Qing Wang</a> and <a href="https://www.st.ewi.tudelft.nl/marco/publications.html" target="_blank">Dr. Marco Antonio
 Zúñiga Zamalloa</a> at the [Embedded and Networked Systems (ENS) Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) of the Computer Science Department, Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/), The Netherlands.
 
