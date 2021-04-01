@@ -9,7 +9,7 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Hanting Ye
 tagline:          'Damon'
-description:      'PhD student <a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>&emsp;&emsp;<em>Email</em>: <a href="mailto: H.Ye-1@tudelft.nl" target="_blank">H.Ye&#8288;-&#8288;1@tudelft.nl</a>&emsp;<em>Office</em>: 2.W.860, West 2nd floor, <a href="https://iamap.tudelft.nl/poi/elektrotechniek-wiskunde-informatica/" target="_blank">Building 28</a>&emsp;&emsp;&emsp;<em>Address</em>: Van Mourik Broekmanweg 6, 2628 XE Delft, The Netherlands'
+description:      'PhD student <br><a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>'
 url:              https://hantingye.github.io
 
 
@@ -61,6 +61,7 @@ google_analytics: UA-100461102-1
 
 email: H.Ye-1@tudelft.nl
 linkedin: https://www.linkedin.com/in/hanting-ye-b8585b114/
+scholar: https://scholar.google.com/citations?hl=en&user=MGb2RFcAAAAJ&view_op=list_works&gmla=AJsN-F7jpvIWS5PBMdyb68MVaMoO0nDv4vOD8PQT2P5aJNKNF8tIV7By4cDsqX82ZieDWCqqfT9Ekp1ZysqEyqeIffuaK6CEhv50OwD6dFh6zcKnRYr73dE
 
 hydeout:
   repo:             https://github.com/hantingye

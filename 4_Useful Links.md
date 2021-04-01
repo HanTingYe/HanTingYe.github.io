@@ -14,7 +14,3 @@ title: Useful Links
 
 
 
-<strong>Learning Notes:
-
-
-File coming soon.
