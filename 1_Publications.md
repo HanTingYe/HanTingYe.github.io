@@ -28,7 +28,7 @@ IEEE Global Communications Conference (*GLOBECOM’19*).
 IEEE International Conference on Communications (*ICC’19*).
 
 7. <a href="https://ieeexplore.ieee.org/abstract/document/8539522" target="_blank">“Full-duplex Wireless-powered IoT Networks with Unmanned Aerial Vehicle”</a>  
-**Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
+**Hanting Ye**, Xin Kang, Yingchang Liang and Jingon Joung.  
 IEEE International Conference on ICT Convergence (**Invited paper**, *ICTC’18*).
 
 
