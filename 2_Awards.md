@@ -18,7 +18,6 @@ sidebar_link: true
 * 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**National Scholarship *(top 1%)***
 * 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;The 1st Class Bachelor Degree Scholarship of CQU *(top 2%)*
 * 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;International Mathematical Contest in Modeling&emsp;Honorable Mention
-* 2015&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National Inspirational Scholarship
 * 2014, 2015&emsp;The 2nd Class Bachelor Degree Scholarship of CQU
 
 
