@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-* 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student conference award
+* 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student travel grant
 * 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;HUAWEI Code Craft&emsp;Silver Medal
 * 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Excellent student leader Awards of UESTC
 * 2018, 2019&emsp;Outstanding Student Awards of UESTC
