@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Services
 sidebar_link: true
 ---
 <strong>Reviewer of Journals:
