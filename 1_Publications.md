@@ -13,7 +13,7 @@ sidebar_link: true
 
 3. <a href="https://ieeexplore.ieee.org/abstract/document/9175026" target="_blank">"Cognitive Backscatter NOMA Networks With Multi-Slot Energy Causality"</a>  
 Jie Wang, **Hanting Ye**, Xin Kang, Sumei Sun and Yingchang Liang.  
-*IEEE Communications Letters*, 2020.
+*IEEE Communications Letters*, 2020 (Co-Primary).
 
 4. <a href="https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
@@ -29,7 +29,7 @@ IEEE International Conference on Communications (*ICC’19*).
 
 7. <a href="https://ieeexplore.ieee.org/abstract/document/8539522" target="_blank">“Full-duplex Wireless-powered IoT Networks with Unmanned Aerial Vehicle”</a>  
 **Hanting Ye**, Xin Kang, Yingchang Liang and Jingon Joung.  
-IEEE International Conference on ICT Convergence (**Invited paper**, *ICTC’18*).
+IEEE International Conference on ICT Convergence (Invited paper, *ICTC’18*).
 
 
 
