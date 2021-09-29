@@ -10,6 +10,7 @@ title: Useful Links
 * John G. Proakis and Masoud Salehi, "Digital Communications"
 * Gaurav Sharma, "Digital Color Imaging HandBook"
 * Daniel Zwillinger and Victor Moll, ["Table of Integrals, Series, and Products"](https://www.sciencedirect.com/book/9780123849335/table-of-integrals-series-and-products)
+* Dimitri P. Bertsekas, ["Nonlinear Programming: 3rd Edition"](http://www.athenasc.com/nonlinbook.html)
 * Standard <a href="https://ieeexplore.ieee.org/document/8697198">"IEEE 802.15.7"</a>
 * <a href="http://cvxr.com/cvx/doc/">"CVX Users' Guide"</a>
 
