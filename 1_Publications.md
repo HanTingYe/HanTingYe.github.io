@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 1. <a href="https://hantingye.github.io/" target="_blank">“SpiderWeb: Enabling Through-Screen Visible Light Communication”</a>  
 **Hanting Ye**, Qing Wang.  
-*ACM SenSys*, 2021.
+*The ACM Conference on Embedded Networked Sensor Systems*, 2021. (*ACM SenSys*, Acceptance ratio: 18%)
 
 2. <a href="https://ieeexplore.ieee.org/document/9377454" target="_blank">“Joint Uplink-and-Downlink Optimization of 3D UAV Swarm Deployment for Wireless-Powered IoT Networks”</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
@@ -33,7 +33,7 @@ IEEE International Conference on Communications. (*ICC’19*)
 
 8. <a href="https://ieeexplore.ieee.org/abstract/document/8539522" target="_blank">“Full-duplex Wireless-powered IoT Networks with Unmanned Aerial Vehicle”</a>  
 **Hanting Ye**, Xin Kang, Yingchang Liang and Jingon Joung.  
-IEEE International Conference on ICT Convergence. (Invited paper, *ICTC’18*)
+IEEE International Conference on ICT Convergence. (*ICTC’18*, Invited paper)
 
 
 
