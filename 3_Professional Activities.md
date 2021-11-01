@@ -9,8 +9,9 @@ sidebar_link: true
 * IEEE Internet of Things Journal (IoT-J)
 * IEEE Wireless Communications Letters (WCL)
 
-<strong>Local Arrangements Co-Chairs:
+<strong>Student Volunteer:
 
+* IEEE ICNP 2021
 * ACM EWSN 2021
 * IEEE ICCS 2018
 
