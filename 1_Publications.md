@@ -3,11 +3,11 @@ layout: page
 title: Publications
 sidebar_link: true
 ---
-1. <a href="https://hantingye.github.io/" target="_blank">“Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning”</a>  
+1. <a href="https://dl.acm.org/doi/10.1145/3485730.3493454" target="_blank">“Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning”</a>  
 Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
 *ACM SenSys Workshop on AIChallengeIoT*, 2021.
 
-2. <a href="https://hantingye.github.io/" target="_blank">“SpiderWeb: Enabling Through-Screen Visible Light Communication”</a>  
+2. <a href="https://dl.acm.org/doi/10.1145/3485730.3485948" target="_blank">“SpiderWeb: Enabling Through-Screen Visible Light Communication”</a>  
 **Hanting Ye**, Qing Wang.  
 *ACM Conference on Embedded Networked Sensor Systems*, 2021.<br>
 (*ACM SenSys*, Acceptance ratio: 18%)
