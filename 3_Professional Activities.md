@@ -5,9 +5,9 @@ sidebar_link: true
 ---
 <strong>Reviewer of Journals:
 
-* IEEE Transactions on Communications (TCOM)
-* IEEE Internet of Things Journal (IoT-J)
-* IEEE Wireless Communications Letters (WCL)
+* IEEE Transactions on Communications (TCOM): 2020, 2021
+* IEEE Internet of Things Journal (IoT-J): 2020, 2021
+* IEEE Wireless Communications Letters (WCL): 2020, 2021
 
 <strong>Student Volunteers:
 
