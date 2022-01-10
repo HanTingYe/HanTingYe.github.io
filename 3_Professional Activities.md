@@ -17,7 +17,7 @@ sidebar_link: true
 
 <strong>Supervised MSc student:
   
-* Tolga Parlan
+* [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
 
 
 
