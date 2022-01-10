@@ -15,6 +15,9 @@ sidebar_link: true
 * ACM EWSN 2021
 * IEEE ICCS 2018
 
+<strong>Supervised MSc student:
+  
+* Tolga Parlan
 
 
 
