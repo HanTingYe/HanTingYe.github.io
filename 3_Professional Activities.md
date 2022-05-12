@@ -20,7 +20,8 @@ sidebar_link: true
 * [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
 * [Niels van der Kolk](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
   
-
+<strong>Teaching Assistant:
+* Q4, 2021-2022, Visible Light Communication & Sensing (CS4425).
 
 
 
