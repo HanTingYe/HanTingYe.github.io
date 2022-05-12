@@ -18,6 +18,8 @@ sidebar_link: true
 <strong>Supervised MSc students:
   
 * [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
+* [Niels van der Kolk](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
+  
 
 
 
