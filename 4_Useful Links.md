@@ -5,6 +5,7 @@ title: Useful Links
 
 <strong>Useful Books and Documents:
 
+* Joseph W. Goodman, "Introduction to Fourier optics"
 * E.R. Davies, "Computer Vision: Principles, Algorithms, Applications, Learning"
 * Richard Szeliski, ["Computer Vision: Algorithms and Applications"](https://www.dropbox.com/s/8bf4feleifhrvl6/SzeliskiBookDraft_20210930.pdf?dl=0)
 * Stephen Boyd and Lieven Vandenberghe, <a href="https://web-stanford-edu.tudelft.idm.oclc.org/~boyd/">"Convex Optimization"</a>
