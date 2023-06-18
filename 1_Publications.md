@@ -3,6 +3,11 @@ layout: page
 title: Publications
 sidebar_link: true
 ---
+2. <a href="https://doi.org/10.1145/3581791.3596855" target="_blank">“When VLC Meets Under-Screen Camera”</a>  
+**Hanting Ye**, Jie Xiong, Qing Wang.  
+*ACM Conference on Mobile Systems, Applications, and Services*, 2023.<br>
+(*ACM SenSys*, Acceptance ratio: 20.7%)
+
 1. <a href="https://dl.acm.org/doi/10.1145/3485730.3493454" target="_blank">“Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning”</a>  
 Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
 *ACM SenSys Workshop on AIChallengeIoT*, 2021.
