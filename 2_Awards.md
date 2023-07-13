@@ -6,7 +6,6 @@ sidebar_link: true
 * 2023&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM MobiSys'23: SIGMobile Student Travel Grants
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM SenSys'21: SIGMobile Student Travel Grants
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student travel grant
-* 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;HUAWEI Code Craft&emsp;Silver Medal
 * 2019&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Excellent student leader Awards of UESTC
 * 2018, 2019&emsp;Outstanding Student Awards of UESTC
 * 2018, 2019&emsp;The 1st Class Master Degree Scholarship of UESTC
