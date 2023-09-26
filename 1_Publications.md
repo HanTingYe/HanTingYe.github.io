@@ -3,7 +3,7 @@ layout: page
 title: Publications
 sidebar_link: true
 ---
-1. <a href="https://doi.org/10.1145/3581791.3596855" target="_blank">“Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera”</a>  
+1. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera”</a>  
 **Hanting Ye**, Guohao Lan, Jinyuan Jia, Qing Wang.  
 *ACM Conference on Mobile Computing And Networking*, 2023.<br>
 (*ACM MobiCom*, Acceptance ratio: 24.4%)
