@@ -11,6 +11,10 @@ sidebar_link: true
 * IEEE Communications Letters (CL)
 * IEEE Wireless Communications Letters (WCL)
 
+ <strong>Reviewer of Conference:
+
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
+
 <strong>Student Volunteers:
 
 * IEEE ICNP 2021
