@@ -31,8 +31,8 @@ Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
 *IEEE Wireless Communications Letters*, 2021.
 
 7. <a href="https://ieeexplore.ieee.org/abstract/document/9175026" target="_blank">"Cognitive Backscatter NOMA Networks With Multi-Slot Energy Causality"</a>  
-Jie Wang, **Hanting Ye**, Xin Kang, Sumei Sun and Yingchang Liang.  
-*IEEE Communications Letters*, 2020. (Co-Primary)
+Jie Wang\*, **Hanting Ye**\*, Xin Kang, Sumei Sun and Yingchang Liang.  
+*IEEE Communications Letters*, 2020. (\*Equal contribution)
 
 8. <a href="https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
