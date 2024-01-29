@@ -9,7 +9,7 @@ remote_theme: fongandrew/hydeout
 # Setup
 title:            Hanting Ye
 tagline:          'Damon'
-description:      '<p align=center style="font-size:0.7rem;">PhD student <br><a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a></p>'  
+description:      '<p align=center style="font-size:0.7rem;">PhD candidate <br><a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a></p>'  
 url:              https://hantingye.github.io
 
 
