@@ -13,14 +13,14 @@ sidebar_link: true
 *ACM Conference on Mobile Systems, Applications, and Services*, 2023.<br>
 (*ACM MobiSys*, Acceptance ratio: 20.7%)
 
-3. <a href="https://dl.acm.org/doi/10.1145/3485730.3493454" target="_blank">“Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning”</a>  
-Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
-*ACM SenSys Workshop on AIChallengeIoT*, 2021.
-
-4. <a href="https://dl.acm.org/doi/10.1145/3485730.3485948" target="_blank">“SpiderWeb: Enabling Through-Screen Visible Light Communication”</a>  
+3. <a href="https://dl.acm.org/doi/10.1145/3485730.3485948" target="_blank">“SpiderWeb: Enabling Through-Screen Visible Light Communication”</a>  
 **Hanting Ye**, Qing Wang.  
 *ACM Conference on Embedded Networked Sensor Systems*, 2021.<br>
 (*ACM SenSys*, Acceptance ratio: 18%)
+
+4. <a href="https://dl.acm.org/doi/10.1145/3485730.3493454" target="_blank">“Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning”</a>  
+Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
+*ACM SenSys Workshop on AIChallengeIoT*, 2021.
 
 5. <a href="https://ieeexplore.ieee.org/document/9377454" target="_blank">“Joint Uplink-and-Downlink Optimization of 3D UAV Swarm Deployment for Wireless-Powered IoT Networks”</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
@@ -30,13 +30,13 @@ Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
 *IEEE Wireless Communications Letters*, 2021.
 
-7. <a href="https://ieeexplore.ieee.org/abstract/document/9175026" target="_blank">"Cognitive Backscatter NOMA Networks With Multi-Slot Energy Causality"</a>  
-Jie Wang\*, **Hanting Ye**\*, Xin Kang, Sumei Sun and Yingchang Liang.  
-*IEEE Communications Letters*, 2020. (\*Equal contribution)
-
-8. <a href="https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
+7. <a href="https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
 *IEEE Transactions on Wireless Communications*, 2020.
+
+8. <a href="https://ieeexplore.ieee.org/abstract/document/9175026" target="_blank">"Cognitive Backscatter NOMA Networks With Multi-Slot Energy Causality"</a>  
+Jie Wang\*, **Hanting Ye**\*, Xin Kang, Sumei Sun and Yingchang Liang.  
+*IEEE Communications Letters*, 2020. (\*Equal contribution)
 
 9. <a href="https://ieeexplore.ieee.org/abstract/document/9013224" target="_blank">“Joint Uplink and Downlink 3D Optimization of an UAV Swarms for Wireless-powered NB-IoT”</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
