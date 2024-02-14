@@ -1,5 +1,5 @@
 <div id="sidebar">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ntC5m18etZJFUd-GghSOP6vdxbJBR6Oqq9XO0OzJMfw"></script>
+  
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
@@ -12,6 +12,8 @@
     <p class="lead">{{ site.description }}</p>
   </header>
   {% include sidebar-nav-links.html %}
+
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ntC5m18etZJFUd-GghSOP6vdxbJBR6Oqq9XO0OzJMfw"></script>
 
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
