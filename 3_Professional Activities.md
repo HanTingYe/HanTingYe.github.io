@@ -30,6 +30,7 @@ sidebar_link: true
 <strong>Teaching Assistant:
 * Q1, 2023-2024, Visible Light Communication & Sensing (CESE4110)
 * Q4, 2021-2022, Visible Light Communication & Sensing (CS4425)
+* Q2, 2020, 2021, 2022, 2023, Embedded Software (CSE2425)
 
 
 
