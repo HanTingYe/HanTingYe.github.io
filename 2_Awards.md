@@ -3,6 +3,7 @@ layout: page
 title: Awards
 sidebar_link: true
 ---
+* 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Heidelberg Laureate Forum Young Researcher
 * 2023&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM MobiSys'23: SIGMobile Student Travel Grants
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM SenSys'21: SIGMobile Student Travel Grants
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student travel grant
