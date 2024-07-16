@@ -4,7 +4,8 @@ title: Useful Links
 ---
 
 <strong>Useful Books and Documents:
-
+* Yuzhi Kang, "GPU Programming And Cg Language Primer"
+* Joseph W. Goodman, "Introduction to Fourier optics"
 * Joseph W. Goodman, "Introduction to Fourier optics"
 * E.R. Davies, "Computer Vision: Principles, Algorithms, Applications, Learning"
 * Richard Szeliski, ["Computer Vision: Algorithms and Applications"](https://www.dropbox.com/s/8bf4feleifhrvl6/SzeliskiBookDraft_20210930.pdf?dl=0)
