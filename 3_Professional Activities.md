@@ -10,6 +10,7 @@ sidebar_link: true
 * IEEE Internet of Things Journal (IoT-J)
 * IEEE Communications Letters (CL)
 * IEEE Wireless Communications Letters (WCL)
+* Scientific Reports
 
  <strong>Reviewer of Conference:
 
