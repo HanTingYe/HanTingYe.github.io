@@ -20,7 +20,6 @@ sidebar_link: true
 
 * IEEE ICNP 2021
 * ACM EWSN 2021
-* 1st CHIIoT workshop
 * IEEE ICCS 2018
 
 <strong>Supervised MSc students:
