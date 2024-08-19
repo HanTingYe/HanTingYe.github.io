@@ -14,6 +14,7 @@ sidebar_link: true
 
  <strong>Reviewer of Conference:
 
+* Annual AAAI Conference on Artificial Intelligence (AAAI’25)
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
 <strong>Student Volunteers:
