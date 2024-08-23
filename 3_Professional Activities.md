@@ -5,6 +5,7 @@ sidebar_link: true
 ---
 <strong>Reviewer of Journals:
 
+* ACM Transactions on Sensor Networks (TOSN)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Communications (TCOM)
 * IEEE Internet of Things Journal (IoT-J)
