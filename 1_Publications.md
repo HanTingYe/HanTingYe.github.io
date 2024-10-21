@@ -3,7 +3,7 @@ layout: page
 title: Publications
 sidebar_link: true
 ---
-12. <a href="https://hantingye.github.io/" target="_blank">“Computing behind Transparent Screen”</a>  
+12. <a href="https://hantingye.github.io/" target="_blank">“Vision Paper: Computing behind Transparent Screen”</a>  
 **Hanting Ye**, Qing Wang.  
 *International Conference on Embedded Wireless Systems and Networks*, 2024.<br>
 (*EWSN*, Acceptance ratio: 22.2%)
