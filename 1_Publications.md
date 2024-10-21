@@ -8,7 +8,7 @@ sidebar_link: true
 *International Conference on Embedded Wireless Systems and Networks*, 2024.<br>
 (*EWSN*, Acceptance ratio: 22.2%)
 
-2. <a href="https://hantingye.github.io/" target="_blank">“Fingertip Air-Writing with Ambient Light”</a>  
+2. <a href="https://link.springer.com/chapter/10.1007/978-3-031-63992-0_11" target="_blank">“Fingertip Air-Writing with Ambient Light”</a>  
 Hao Liu, **Hanting Ye**, Xiangxie Zhang, Jie Yang, Qing Wang.<br>
 *EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services (EAI MobiQuitous)*, 2023.<br>
 
