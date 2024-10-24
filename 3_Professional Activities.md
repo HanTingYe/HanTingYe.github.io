@@ -4,7 +4,7 @@ title: Services
 sidebar_link: true
 ---
 
- <strong>Technical Program Committee of Conference:
+ <strong>Technical Program Committee of Conferences:
 
 * International Conference on Embedded Wireless Systems and Networks (EWSN’25)
 * Annual AAAI Conference on Artificial Intelligence (AAAI’25)
