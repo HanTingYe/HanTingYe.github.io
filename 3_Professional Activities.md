@@ -3,6 +3,13 @@ layout: page
 title: Services
 sidebar_link: true
 ---
+
+ <strong>Technical Program Committee of Conference:
+
+* International Conference on Embedded Wireless Systems and Networks (EWSN’25)
+* Annual AAAI Conference on Artificial Intelligence (AAAI’25)
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
+
 <strong>Reviewer of Journals:
 
 * ACM Transactions on Sensor Networks (TOSN)
@@ -12,11 +19,6 @@ sidebar_link: true
 * IEEE Communications Letters (CL)
 * IEEE Wireless Communications Letters (WCL)
 * Scientific Reports
-
- <strong>Reviewer of Conference:
-
-* Annual AAAI Conference on Artificial Intelligence (AAAI’25)
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
 <strong>Student Volunteers:
 
