@@ -8,6 +8,7 @@ sidebar_link: true
 
 * The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25)
 * The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
+* The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
 * The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
 <strong>Reviewer of Journals:
