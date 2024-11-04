@@ -11,6 +11,10 @@ sidebar_link: true
 * The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
 * The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
+<strong>Organizing Committee:
+
+* Web Co-Chair, EWSN'25
+
 <strong>Reviewer of Journals:
 
 * ACM Transactions on Sensor Networks (TOSN)
@@ -20,6 +24,9 @@ sidebar_link: true
 * IEEE Communications Letters (CL)
 * IEEE Wireless Communications Letters (WCL)
 * Scientific Reports
+
+
+
 
 <strong>Student Volunteers:
 
