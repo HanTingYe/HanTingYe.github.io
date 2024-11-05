@@ -14,6 +14,8 @@ sidebar_link: true
 <strong>Organizing Committee:
 
 * Web Co-Chair, EWSN'25
+* Local Arrangements Co-Chair, EWSN'21
+* Student Volunteers, IEEE ICNP'21, ICCS'18
 
 <strong>Reviewer of Journals:
 
@@ -25,14 +27,6 @@ sidebar_link: true
 * IEEE Wireless Communications Letters (WCL)
 * Scientific Reports
 
-
-
-
-<strong>Student Volunteers:
-
-* IEEE ICNP 2021
-* ACM EWSN 2021
-* IEEE ICCS 2018
 
 <strong>Supervised MSc students:
   
