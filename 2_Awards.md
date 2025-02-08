@@ -4,6 +4,7 @@ title: Awards
 sidebar_link: true
 ---
 * 2025&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;**Doctoral Award with Cum Laude *(top 5%, TU Delft)***
+* 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Chinese Government Award for Outstanding Self-Financed Students Abroad
 * 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Heidelberg Laureate Forum (HLF) Young Researcher
 * 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;[Abbe Grant](https://www.carl-zeiss-stiftung.de/en/) issued from the Carl-Zeiss-Stiftung
 * 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;[Heidelberg Laureate Forum Foundation (HLFF)](https://www.hlf-foundation.org/) Travel Grants
