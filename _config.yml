@@ -7,7 +7,7 @@ remote_theme: fongandrew/hydeout
 
 
 # Setup
-title:            Dr. Hanting Ye
+title:            Hanting Ye
 tagline:          'Damon'
 description:      '<p align=center style="font-size:0.7rem;">PostDoc <br><a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a></p>'  
 url:              https://hantingye.github.io
@@ -15,7 +15,7 @@ url:              https://hantingye.github.io
 
 
 author:
-  name:           'Dr. Hanting Ye'
+  name:           'Hanting Ye'
   url:            https://hantingye.github.io/
 
 paginate:         5
