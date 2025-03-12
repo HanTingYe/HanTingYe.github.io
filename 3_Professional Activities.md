@@ -31,9 +31,10 @@ sidebar_link: true
 
 
 <strong>Supervised MSc students:
-  
-* [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
+
 * [Niels van der Kolk](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
+* [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
+
   
 <strong>Teaching Assistant:
 * Q1, 2023-2024, Visible Light Communication & Sensing (CESE4110)
