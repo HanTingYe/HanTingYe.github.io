@@ -14,7 +14,7 @@ sidebar_link: true
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student travel grant
 * 2018&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;15th China Graduate Mathematical Contest in Modelling&emsp;1st Prize (top 1%)
 * 2017&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;Outstanding Graduates Awards of Chongqing province *(top 0.5%)
-* 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National Scholarship *(top 1%)
+* 2016&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;National Scholarship (top 1%)
 
 
 
