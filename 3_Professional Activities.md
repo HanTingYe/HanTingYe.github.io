@@ -4,20 +4,23 @@ title: Services
 sidebar_link: true
 ---
 
- <strong>Technical Program Committee of Conferences:
+ <strong>Technical Program Committee:
 
 * The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys’25)
 * The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25)
-* The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
-* The 2025 IEEE/CVF International Conference on Computer Vision (ICCV’25)
-* The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
-* The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
 <strong>Organizing Committee:
 
 * Web Co-Chair, EWSN'25
 * Local Arrangements Co-Chair, EWSN'21
 * Student Volunteers, IEEE ICNP'21, ICCS'18
+
+<strong>Reviewer of Conferences:
+* The 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR’25)
+* The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
+* The 2025 IEEE/CVF International Conference on Computer Vision (ICCV’25)
+* The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
+* The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
 
 <strong>Reviewer of Journals:
 
