@@ -33,7 +33,7 @@ sidebar_link: true
 * IEEE Wireless Communications Letters (WCL)
 
 
-<strong>Supervised MSc students:
+<strong>Supervised M.S. students:
 
 * [Niels van der Kolk](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
 * [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
