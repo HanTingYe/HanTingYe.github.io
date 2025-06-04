@@ -8,6 +8,7 @@ sidebar_link: true
 
 * The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys’25)
 * The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25)
+* The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
 
 <strong>Organizing Committee:
 
@@ -17,7 +18,6 @@ sidebar_link: true
 
 <strong>Reviewer of Conferences:
 * The 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR’25)
-* The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
 * The 2025 IEEE/CVF International Conference on Computer Vision (ICCV’25)
 * The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
 * The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’24)
