@@ -19,6 +19,7 @@ sidebar_link: true
 * Student Volunteers, IEEE ICNP'21, ICCS'18
 
 <strong>Reviewer of Conferences:
+* The 32th IEEE Conference on Virtual Reality and 3D User Interfaces (VR’26)
 * The 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR’25)
 * The 2025 IEEE/CVF International Conference on Computer Vision (ICCV’25)
 * The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
