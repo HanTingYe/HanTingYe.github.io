@@ -10,7 +10,7 @@ sidebar_link: true
 * 2024&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;EWSN'24 Student Travel Grants
 * 2023&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM MobiSys'23: SIGMobile Student Travel Grants
 * 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;ACM SenSys'21: SIGMobile Student Travel Grants
-* 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 student travel grant
+* 2021&thinsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;IEEE INFOCOM 2021 Student Travel Grant
 
 
 
