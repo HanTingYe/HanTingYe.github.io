@@ -10,7 +10,7 @@ sidebar_link: true
 * The 35th International Conference on Computer Communications and Networks (ICCCN 2026)
 * The 24th ACM Conference on Embedded Networked Sensor Systems (SenSys’26)
 * The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys’25)
-* The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25)
+* The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25, Distinguished TPC Member) 
 * The 39th Annual AAAI Conference on Artificial Intelligence (AAAI’25)
 
 <strong>Organizing Committee:
