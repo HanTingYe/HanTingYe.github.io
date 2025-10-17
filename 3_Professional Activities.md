@@ -45,14 +45,14 @@ sidebar_link: true
 
 <strong>Supervised B.S. students:
 
-* [Skylar Knight, Duke]
+* Skylar Knight, Duke
 
 
 <strong>Supervised K-12 students:
 
-* [Junfeng Lin, Duke]
-* [Adrian Willett, Duke]
-* [Dhun Pandya, Duke]
+* Junfeng Lin, Duke
+* Adrian Willett, Duke
+* Dhun Pandya, Duke
 
 <strong>Alternate Lecturer:
 * Q1, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke)
