@@ -40,26 +40,26 @@ sidebar_link: true
 
 <strong>Supervised M.S. students:
 
-* [Niels van der Kolk](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
-* [Tolga Parlan](https://www.linkedin.com/in/tolgaparlan/)
+* [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
+* [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/)
 
 <strong>Supervised B.S. students:
 
-* [Skylar Knight]
+* [Skylar Knight, Duke]
 
 
 <strong>Supervised K-12 students:
 
-* [Junfeng Lin]
-* [Adrian Willett]
-* [Dhun Pandya]
+* [Junfeng Lin, Duke]
+* [Adrian Willett, Duke]
+* [Dhun Pandya, Duke]
 
 <strong>Alternate Lecturer:
-* Q1, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke University)
+* Q1, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke)
 
 <strong>Teaching Assistant:
-* Q1, 2023-2024, Visible Light Communication & Sensing (CESE4110, Delft University of Technology)
-* Q4, 2021-2022, Visible Light Communication & Sensing (CS4425, Delft University of Technology)
+* Q1, 2023-2024, Visible Light Communication & Sensing (CESE4110, TU Delft)
+* Q4, 2021-2022, Visible Light Communication & Sensing (CS4425, TU Delft)
 
 
 
