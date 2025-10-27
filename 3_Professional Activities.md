@@ -50,7 +50,6 @@ sidebar_link: true
 
 <strong>Supervised K-12 students:
 
-* Junfeng Lin, Duke
 * Adrian Willett, Duke
 * Dhun Pandya, Duke
 
