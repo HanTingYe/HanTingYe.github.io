@@ -8,6 +8,7 @@ sidebar_link: true
 
 * The 29th Design, Automation and Test in Europe Conference (DATE’26)
 * The 35th International Conference on Computer Communications and Networks (ICCCN 2026)
+* The 24th ACM Conference on Mobile Systems, Applications, and Services (MobiSys’26)
 * The 24th ACM Conference on Embedded Networked Sensor Systems (SenSys’26)
 * The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys’25)
 * The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN’25, *Distinguished TPC Member*) 
