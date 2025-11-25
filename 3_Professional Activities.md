@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Service
 sidebar_link: true
 ---
 
