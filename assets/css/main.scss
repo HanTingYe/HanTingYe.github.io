@@ -7,3 +7,10 @@ $heading-spacing: 1rem;
 @import "hydeout";
 
 
+
+
+/* Prevent icons from wrapping into the second line */
+#sidebar-icon-links {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+}
