@@ -7,11 +7,6 @@ $heading-spacing: 1rem;
 @import "hydeout";
 
 
-/* Fix sidebar width and prevent icon wrapping */
-.sidebar-sticky,
-.sidebar {
-  width: 260px !important;
-}
 
 /* Prevent icons from wrapping into the second line */
 #sidebar-icon-links {
