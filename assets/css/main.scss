@@ -13,11 +13,20 @@ $heading-spacing: 1rem;
   width: 260px !important;
 }
 
+/* Prevent icons from wrapping into the second line */
 #sidebar-icon-links {
-  white-space: nowrap;
+  flex-flow: row nowrap !important;
+  white-space: nowrap !important;
 }
 
+/* Ensure icons align horizontally */
 #sidebar-icon-links .icon {
-  display: inline-block;
-  margin-right: 6px; 
+  display: inline-flex !important;
+  align-items: center;
+}
+
+
+
+#sidebar-icon-links .icon {
+  margin-right: 0.4rem !important;
 }
