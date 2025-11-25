@@ -12,3 +12,12 @@ $heading-spacing: 1rem;
 .sidebar {
   width: 260px !important;
 }
+
+#sidebar-icon-links {
+  white-space: nowrap;
+}
+
+#sidebar-icon-links .icon {
+  display: inline-block;
+  margin-right: 14px; 
+}
