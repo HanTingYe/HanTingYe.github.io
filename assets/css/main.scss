@@ -10,7 +10,7 @@ $heading-spacing: 1rem;
 
 /* Prevent icons from wrapping into the second line */
 #sidebar-icon-links {
-  flex-flow: row nowrap !important;
-  white-space: nowrap !important;
+  display: flex !important;
+  flex-wrap: nowrap !important;
 }
 
