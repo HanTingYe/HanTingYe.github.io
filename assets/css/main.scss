@@ -5,3 +5,10 @@
 $sidebar-width: 12rem;
 $heading-spacing: 1rem;
 @import "hydeout";
+
+
+/* Fix sidebar width and prevent icon wrapping */
+.sidebar-sticky,
+.sidebar {
+  width: 260px !important;
+}
