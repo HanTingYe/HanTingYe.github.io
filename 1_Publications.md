@@ -3,7 +3,12 @@ layout: page
 title: Publications
 sidebar_link: true
 ---
-1. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“NIRF: Detecting Cameras That Hide Behind Screen”</a>  
+1. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“No Guide, No Cheat: Detecting Smart Glasses via AR Optical Signatures”</a>  
+**Hanting Ye**, Tianyi Hu, Maria Gorlatova.  
+*The International Workshop on Mobile Computing Systems and Applications*, 2026.<br>
+(*ACM HotMobile*)
+
+2. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“NIRF: Detecting Cameras That Hide Behind Screen”</a>  
 **Hanting Ye**, Niels van der Kolk, Qing Wang.  
 *ACM Conference on Mobile Computing And Networking*, 2025.<br>
 (*ACM MobiCom*, Acceptance ratio: 17%)
