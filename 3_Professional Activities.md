@@ -46,10 +46,18 @@ sidebar_link: true
 
 * [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
 * [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/)
+* Yanhe Zhu, Duke
+* Christine Yang, Duke
 
 <strong>Supervised B.S. students:
 
+* Valiantsin Kasabrukhau, Duke
+* Sulaiman Khydyr uulu, Duke
+* Qi Chen, Duke
+* Jamie Tan, Duke
+* Sofia Radkova, Duke
 * Skylar Knight, Duke
+* Nathaniel Corey, Duke
 
 
 <strong>Supervised K-12 students:
@@ -58,7 +66,10 @@ sidebar_link: true
 * Dhun Pandya, Duke
 
 <strong>Alternate Lecturer:
-* Q1, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke)
+* Winter, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke)
+
+<strong>Project Mentor:
+* Spring, 2025-2026, Edge Computing (ECE/COMPSCI 564, Duke)
 
 <strong>Teaching Assistant:
 * Q1, 2023-2024, Visible Light Communication & Sensing (CESE4110, TU Delft)
