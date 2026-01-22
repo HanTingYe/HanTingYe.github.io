@@ -46,18 +46,19 @@ sidebar_link: true
 
 * [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
 * [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/)
-* Yanhe Zhu, Duke
+* [Yanhe Zhu, Duke](www.linkedin.com/in/yanhe-zhu-duke-ece)
+* [Qi Chen, Duke](https://www.linkedin.com/in/qi-chen-426318327/)
 * Christine Yang, Duke
+
 
 <strong>Supervised B.S. students:
 
-* Valiantsin Kasabrukhau, Duke
-* Sulaiman Khydyr uulu, Duke
-* Qi Chen, Duke
-* Jamie Tan, Duke
-* Sofia Radkova, Duke
-* Skylar Knight, Duke
-* Nathaniel Corey, Duke
+* [Valiantsin Kasabrukhau, Duke](https://www.linkedin.com/in/valiantsin-kasabrukhau/)
+* [Sulaiman Khydyr uulu, Duke](https://www.linkedin.com/in/sulaimankhydyr/)
+* [Jamie Tan, Duke](https://www.linkedin.com/in/jamietandev/)
+* [Sofia Radkova, Duke](https://www.linkedin.com/in/sofa-radkova/)
+* [Skylar Knight, Duke](https://www.linkedin.com/in/skylarhknight/)
+* [Nathaniel Corey, Duke](https://www.linkedin.com/in/nathaniel-c-00b128255/)
 
 
 <strong>Supervised K-12 students:
