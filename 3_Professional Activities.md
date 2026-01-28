@@ -33,7 +33,7 @@ sidebar_link: true
 
 <strong>Reviewer of Journals:
 
-* ACM Transactions on Sensor Networks (TOSN)
+* ACM Transactions on Sensor Networks (TOSN, *Distinguished Reviewer Board*)
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Services Computing (TSC)
