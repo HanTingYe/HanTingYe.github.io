@@ -25,6 +25,7 @@ sidebar_link: true
 <strong>Reviewer of Conferences:
 * The 2026 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’26)
 * The 32th IEEE Conference on Virtual Reality and 3D User Interfaces (VR’26)
+* The 18th European Conference on Computer Vision (ECCV’26)
 * The 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR’25)
 * The 2025 IEEE/CVF International Conference on Computer Vision (ICCV’25)
 * The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
