@@ -4,22 +4,22 @@ title: Publications
 sidebar_link: true
 ---
 
-1. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“Demo: Catch Smart Glasses If You Scan: Robot-Controlled vs. UI-Guided”</a>  
+1. <a href="https://dl.acm.org/doi/abs/10.1145/3789514.3796255" target="_blank">“Demo: Catch Smart Glasses If You Scan: Robot-Controlled vs. UI-Guided”</a>  
 **Hanting Ye**, Tianyi Hu, Valiantsin Kasabrukhau, Sulaiman Khydyr uulu, Maria Gorlatova.  
 *The International Workshop on Mobile Computing Systems and Applications*, 2026.<br>
 (*ACM HotMobile*, **Best Demo Award**)
 
-2. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“Demo: Control the ARmada: LMM Coordination for Multi-Robot AR-HRC”</a>  
+2. <a href="https://dl.acm.org/doi/abs/10.1145/3789514.3796258" target="_blank">“Demo: Control the ARmada: LMM Coordination for Multi-Robot AR-HRC”</a>  
 Christian Fronk, **Hanting Ye**, Miroslav Pajic, Maria Gorlatova.  
 *The International Workshop on Mobile Computing Systems and Applications*, 2026.<br>
 (*ACM HotMobile*)
 
-3. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“No Guide, No Cheat: Detecting Smart Glasses via AR Optical Signatures”</a>  
+3. <a href="https://dl.acm.org/doi/abs/10.1145/3789514.3792055" target="_blank">“No Guide, No Cheat: Detecting Smart Glasses via AR Optical Signatures”</a>  
 **Hanting Ye**, Tianyi Hu, Maria Gorlatova.  
 *The International Workshop on Mobile Computing Systems and Applications*, 2026.<br>
 (*ACM HotMobile*)
 
-4. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“NIRF: Detecting Cameras That Hide Behind Screen”</a>  
+4. <a href="https://dl.acm.org/doi/abs/10.1145/3680207.3723496" target="_blank">“NIRF: Detecting Cameras That Hide Behind Screen”</a>  
 **Hanting Ye**, Niels van der Kolk, Qing Wang.  
 *ACM Conference on Mobile Computing And Networking*, 2025.<br>
 (*ACM MobiCom*, Acceptance ratio: 17%)
