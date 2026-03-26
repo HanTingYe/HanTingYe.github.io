@@ -60,7 +60,7 @@ Hao Liu, **Hanting Ye**, Jie Yang, Qing Wang.<br>
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
 *IEEE Wireless Communications Letters*, 2021.
 
-13. <a href="https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
+13. <a href="https://ieeexplore.ieee.org/abstract/document/9080561" target="_blank">"Optimization for Full-Duplex Rotary-Wing UAV-Enabled Wireless-Powered IoT Networks"</a>  
 **Hanting Ye**, Xin Kang, Jingon Joung and Yingchang Liang.  
 *IEEE Transactions on Wireless Communications*, 2020.
 
