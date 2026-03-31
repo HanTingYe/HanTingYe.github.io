@@ -37,6 +37,7 @@ sidebar_link: true
 
 * ACM Transactions on Sensor Networks (TOSN, *Distinguished Reviewer Board*)
 * IEEE Journal on Selected Areas in Communications (JSAC)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Services Computing (TSC)
 * IEEE Transactions on Communications (TCOM)
@@ -65,7 +66,6 @@ sidebar_link: true
 
 
 <strong>Supervised K-12 students:
-
 * Adrian Willett, Duke
 * Dhun Pandya, Duke
 
