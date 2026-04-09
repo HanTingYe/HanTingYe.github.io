@@ -21,7 +21,7 @@ Christian Fronk, **Hanting Ye**, Miroslav Pajic, Maria Gorlatova.
 
 4. <a href="https://dl.acm.org/doi/abs/10.1145/3680207.3723496" target="_blank">“NIRF: Detecting Cameras That Hide Behind Screen”</a>  
 **Hanting Ye**, Niels van der Kolk, Qing Wang.  
-*ACM Conference on Mobile Computing And Networking*, 2025.<br>
+*ACM Conference on Mobile Computing and Networking*, 2025.<br>
 (*ACM MobiCom*, Acceptance ratio: 17%)
 
 5. <a href="https://ewsn.org/file-repository/ewsn2024/ewsn24-final242.pdf" target="_blank">“Vision Paper: Computing behind Transparent Screen”</a>  
@@ -35,7 +35,7 @@ Hao Liu, **Hanting Ye**, Xiangxie Zhang, Jie Yang, Qing Wang.<br>
 
 7. <a href="https://doi.org/10.1145/3570361.3613278" target="_blank">“Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera”</a>  
 **Hanting Ye**, Guohao Lan, Jinyuan Jia, Qing Wang.  
-*ACM Conference on Mobile Computing And Networking*, 2023.<br>
+*ACM Conference on Mobile Computing and Networking*, 2023.<br>
 (*ACM MobiCom*, Acceptance ratio: 24.4%)
 
 8. <a href="https://doi.org/10.1145/3581791.3596855" target="_blank">“When VLC Meets Under-Screen Camera”</a>  
