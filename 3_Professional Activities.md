@@ -8,7 +8,8 @@ sidebar_link: true
 
  <strong>Technical Program Committee:
 
-
+* The 25th ACM Conference on Embedded Networked Sensor Systems (SenSys’27)
+* The 30th Design, Automation and Test in Europe Conference (DATE’27)
 * The 24th ACM Conference on Mobile Systems, Applications, and Services (MobiSys’26)
 * The 24th ACM Conference on Embedded Networked Sensor Systems (SenSys’26)
 * The 23rd International Conference on Embedded Wireless Systems and Networks (EWSN’26) 
@@ -25,7 +26,9 @@ sidebar_link: true
 * Student Volunteers, IEEE ICNP'21, ICCS'18
 
 <strong>Reviewer of Conferences:
+* The 2026 Annual Conference on Neural Information Processing Systems (NeurIPS’26)
 * The 2026 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’26)
+* The 2025 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’25)
 * The 32th IEEE Conference on Virtual Reality and 3D User Interfaces (VR’26)
 * The 18th European Conference on Computer Vision (ECCV’26)
 * The 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR’25)
