@@ -26,7 +26,7 @@ sidebar_link: true
 * Student Volunteers, IEEE ICNP'21, ICCS'18
 
 <strong>Reviewer of Conferences:
-* The 2026 Annual Conference on Neural Information Processing Systems (NeurIPS’26)
+* The 40th Annual Conference on Neural Information Processing Systems (NeurIPS’26)
 * The 2026 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’26)
 * The 2025 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’25)
 * The 32th IEEE Conference on Virtual Reality and 3D User Interfaces (VR’26)
