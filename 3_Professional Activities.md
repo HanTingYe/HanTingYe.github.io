@@ -8,6 +8,7 @@ sidebar_link: true
 
  <strong>Technical Program Committee:
 
+* The 33rd ACM Conference on Mobile Computing and Networking (MobiCom’27)
 * The 25th ACM Conference on Embedded Networked Sensor Systems (SenSys’27)
 * The 30th Design, Automation and Test in Europe Conference (DATE’27)
 * The 24th ACM Conference on Mobile Systems, Applications, and Services (MobiSys’26)
