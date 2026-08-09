@@ -16,9 +16,12 @@
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
-
-	<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MP7YQkmdAqyhIPRrWA4elr8MWRlK4zniy6GHaliwEhs&cl=ffffff&w=a"></script>
-
+	
+  <div style="width: 0px; height: 0px; overflow: hidden;">
+    <span>
+	  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MP7YQkmdAqyhIPRrWA4elr8MWRlK4zniy6GHaliwEhs&cl=ffffff&w=a"></script>
+    <span>
+  </div>
 
   {% include sidebar-icon-links.html %}
   {% include copyright.html %}
