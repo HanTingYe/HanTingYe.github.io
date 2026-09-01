@@ -27,6 +27,8 @@ sidebar_link: true
 * Student Volunteers, IEEE ICNP'21, ICCS'18
 
 <strong>Reviewer of Conferences:
+* The 22nd Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI’27)
+* The 33rd IEEE Conference on Virtual Reality and 3D User Interfaces (VR’27)
 * The 40th Annual Conference on Neural Information Processing Systems (NeurIPS’26)
 * The 2026 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’26)
 * The 2025 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT’25)
