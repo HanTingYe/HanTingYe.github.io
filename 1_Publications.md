@@ -4,22 +4,22 @@ title: Publications
 sidebar_link: true
 ---
 
-1. <a href="https://arxiv.org/abs/2607.23901" target="_blank">“SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces”</a>\\
+1. <a href="https://arxiv.org/abs/2607.23901" target="_blank">“SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces”</a>
 Tianyuan Du, Tianyi Hu, **Hanting Ye**, Maria Gorlatova.
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2026.<br>
 (*ACM IMWUT*)
 
-2. <a href="https://arxiv.org/abs/2606.25202" target="_blank">“ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task”</a>\\
+2. <a href="https://arxiv.org/abs/2606.25202" target="_blank">“ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task”</a>
 Christian Fronk, **Hanting Ye**, Zhehan Qu, Maria Gorlatova.
 *Proceedings of the ACM on Human-Computer Interaction*, 2026.<br>
 (*ACM MobileHCI*)
 
-3. <a href="https://arxiv.org/abs/2606.25162" target="_blank">“fARfetch: Enabling Collocated AR-HRC in Large Visually Diverse Environments with VLM-Driven AR Content Adaptation”</a>\\
+3. <a href="https://arxiv.org/abs/2606.25162" target="_blank">“fARfetch: Enabling Collocated AR-HRC in Large Visually Diverse Environments with VLM-Driven AR Content Adaptation”</a>
 Christian Fronk, **Hanting Ye**, David Hunt, Miroslav Pajic, Maria Gorlatova.
 *IEEE International Conference on Robot and Human Interactive Communication*, 2026.<br>
 (*IEEE RO-MAN*)
 
-4. <a href="https://arxiv.org/abs/2608.07937" target="_blank">“FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence”</a>\\
+4. <a href="https://arxiv.org/abs/2608.07937" target="_blank">“FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence”</a>
 Amir Sabbaghziarani, **Hanting Ye**, Maria Gorlatova, Yi Ding.
 *British Machine Vision Conference*, 2026.<br>
 (*BMVC*)
