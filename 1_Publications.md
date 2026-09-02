@@ -5,17 +5,17 @@ sidebar_link: true
 ---
 
 1. <a href="https://arxiv.org/abs/2607.23901" target="_blank">“SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces”</a><br>
-Tianyuan Du, Tianyi Hu, **Hanting Ye**, Maria Gorlatova.
+Tianyuan Du, Tianyi Hu, **Hanting Ye**, Maria Gorlatova.<br>
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2026.<br>
 (*ACM IMWUT*)
 
 2. <a href="https://arxiv.org/abs/2606.25202" target="_blank">“ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task”</a>
-Christian Fronk, **Hanting Ye**, Zhehan Qu, Maria Gorlatova.
+Christian Fronk, **Hanting Ye**, Zhehan Qu, Maria Gorlatova.<br>
 *Proceedings of the ACM on Human-Computer Interaction*, 2026.<br>
 (*ACM MobileHCI*)
 
 3. <a href="https://arxiv.org/abs/2606.25162" target="_blank">“fARfetch: Enabling Collocated AR-HRC in Large Visually Diverse Environments with VLM-Driven AR Content Adaptation”</a><br>
-Christian Fronk, **Hanting Ye**, David Hunt, Miroslav Pajic, Maria Gorlatova.
+Christian Fronk, **Hanting Ye**, David Hunt, Miroslav Pajic, Maria Gorlatova.<br>
 *IEEE International Conference on Robot and Human Interactive Communication*, 2026.<br>
 (*IEEE RO-MAN*)
 
