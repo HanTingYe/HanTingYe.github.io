@@ -9,7 +9,7 @@ Tianyuan Du, Tianyi Hu, **Hanting Ye**, Maria Gorlatova.<br>
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2026.<br>
 (*ACM IMWUT*)
 
-2. <a href="https://arxiv.org/abs/2606.25202" target="_blank">“ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task”</a>
+2. <a href="https://arxiv.org/abs/2606.25202" target="_blank">“ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task”</a><br>
 Christian Fronk, **Hanting Ye**, Zhehan Qu, Maria Gorlatova.<br>
 *Proceedings of the ACM on Human-Computer Interaction*, 2026.<br>
 (*ACM MobileHCI*)
@@ -19,8 +19,8 @@ Christian Fronk, **Hanting Ye**, David Hunt, Miroslav Pajic, Maria Gorlatova.<br
 *IEEE International Conference on Robot and Human Interactive Communication*, 2026.<br>
 (*IEEE RO-MAN*)
 
-4. <a href="https://arxiv.org/abs/2608.07937" target="_blank">“FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence”</a>
-Amir Sabbaghziarani, **Hanting Ye**, Maria Gorlatova, Yi Ding.
+4. <a href="https://arxiv.org/abs/2608.07937" target="_blank">“FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence”</a><br>
+Amir Sabbaghziarani, **Hanting Ye**, Maria Gorlatova, Yi Ding.<br>
 *British Machine Vision Conference*, 2026.<br>
 (*BMVC*)
 
