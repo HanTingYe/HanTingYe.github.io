@@ -52,32 +52,28 @@ sidebar_link: true
 * IEEE Wireless Communications Letters (WCL)
 
 
-## Mentoring Experience
-
-Independently and jointly mentored **21 students, including 2 K–12 students, 7 undergraduates, 9 graduate students, and 3 PhD students** at Duke, GSU, and TU Delft, resulting in **11 publications**. One K–12 mentee was admitted to the **University of Toronto**, one Duke undergraduate earned **Graduating with Distinction**, and two TU Delft master's students earned **8.5/10**. Work by an independently supervised master's student contributed to an **ACM MobiCom 2025** paper, and work by two supervised undergraduates contributed to the **ACM HotMobile 2026 Best Demo Award**.
-
 ### PhD Students
 
-* Tianyuan Du — Summer 2025 - Present.
-* Christian Fronk — Summer 2025 - Spring 2026.
-* Amir Sabbaghziarani — Summer 2025 - Spring 2026.
+* [Tianyuan Du](https://alextydu.github.io/) — Summer 2025 - Present.
+* [Christian Fronk](https://www.linkedin.com/in/christian-fronk-a015521a3/) — Summer 2025 - Spring 2026.
+* [Amir Sabbaghziarani](https://amir-sbg.github.io/) — Summer 2025 - Spring 2026.
 
 ### Master's Students
 
 * Christine Yang, Duke — Fall 2025 - Present.
-* James Yong — Fall 2025 - Present.
-* Diego Medina Molina — Summer 2026 - Present.
-* Jiacheng Guo — Fall 2025 - Present.
+* [James Yong](https://www.linkedin.com/in/jamesyong42/) — Fall 2025 - Present.
+* [Diego Medina Molina](https://www.linkedin.com/in/diego-a-medina-molina/) — Summer 2026 - Present.
+* [Jiacheng Guo](https://www.linkedin.com/in/jiacheng-guo-takaya/) — Fall 2025 - Present.
 * [Yanhe Zhu, Duke](https://www.linkedin.com/in/yanhe-zhu-duke-ece) — Fall 2025 - Spring 2026.
 * [Qi Chen, Duke](https://www.linkedin.com/in/qi-chen-426318327/) — Fall 2025 - Spring 2026.
 * [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/) — Spring 2023.
 * [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/) — Spring 2022.
-* Hao Liu — Fall 2021.
+* [Hao Liu](https://haoliu001.github.io/) — Fall 2021.
 
 ### Undergraduate Students
 
 * [Valiantsin Kasabrukhau, Duke](https://www.linkedin.com/in/valiantsin-kasabrukhau/) — Spring 2026 - Present, **ACM HotMobile 2026 Best Demo Award**.
-* Noella Yang — Fall 2026 - Present.
+* [Noella Yang](https://www.linkedin.com/in/noellayang/) — Fall 2026 - Present.
 * [Sulaiman Khydyr uulu, Duke](https://www.linkedin.com/in/sulaimankhydyr/) — Spring 2026, **ACM HotMobile 2026 Best Demo Award**.
 * [Jamie Tan, Duke](https://www.linkedin.com/in/jamietandev/) — Spring 2026.
 * [Sofia Radkova, Duke](https://www.linkedin.com/in/sofa-radkova/) — Spring 2026.
