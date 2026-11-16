@@ -52,40 +52,42 @@ sidebar_link: true
 * IEEE Wireless Communications Letters (WCL)
 
 
-<strong>Supervised Ph.D. students:
+## Mentoring Experience
 
-* Tianyuan Du
-* Christian Fronk
-* Amir Sabbaghziarani
+Independently and jointly mentored **21 students, including 2 K–12 students, 7 undergraduates, 9 graduate students, and 3 PhD students** at Duke, GSU, and TU Delft, resulting in **11 publications**. One K–12 mentee was admitted to the **University of Toronto**, one Duke undergraduate earned **Graduating with Distinction**, and two TU Delft master's students earned **8.5/10**. Work by an independently supervised master's student contributed to an **ACM MobiCom 2025** paper, and work by two supervised undergraduates contributed to the **ACM HotMobile 2026 Best Demo Award**.
 
+### PhD Students
 
-<strong>Supervised M.S. students:
+* Tianyuan Du — Summer 2025 - Present.
+* Christian Fronk — Summer 2025 - Spring 2026.
+* Amir Sabbaghziarani — Summer 2025 - Spring 2026.
 
-* [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
-* [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/)
-* [Yanhe Zhu, Duke](www.linkedin.com/in/yanhe-zhu-duke-ece)
-* [Qi Chen, Duke](https://www.linkedin.com/in/qi-chen-426318327/)
-* Christine Yang, Duke
-* James Yong
-* Diego Medina Molina
-* Jiacheng Guo
-* Hao Liu
+### Master's Students
 
+* Christine Yang, Duke — Fall 2025 - Present.
+* James Yong — Fall 2025 - Present.
+* Diego Medina Molina — Summer 2026 - Present.
+* Jiacheng Guo — Fall 2025 - Present.
+* [Yanhe Zhu, Duke](https://www.linkedin.com/in/yanhe-zhu-duke-ece) — Fall 2025 - Spring 2026.
+* [Qi Chen, Duke](https://www.linkedin.com/in/qi-chen-426318327/) — Fall 2025 - Spring 2026.
+* [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/) — Spring 2023.
+* [Tolga Parlan, TU Delft](https://www.linkedin.com/in/tolgaparlan/) — Spring 2022.
+* Hao Liu — Fall 2021.
 
-<strong>Supervised B.S. students:
+### Undergraduate Students
 
-* [Valiantsin Kasabrukhau, Duke](https://www.linkedin.com/in/valiantsin-kasabrukhau/)
-* Noella Yang
-* [Sulaiman Khydyr uulu, Duke](https://www.linkedin.com/in/sulaimankhydyr/)
-* [Jamie Tan, Duke](https://www.linkedin.com/in/jamietandev/)
-* [Sofia Radkova, Duke](https://www.linkedin.com/in/sofa-radkova/)
-* [Skylar Knight, Duke](https://www.linkedin.com/in/skylarhknight/)
-* [Nathaniel Corey, Duke](https://www.linkedin.com/in/nathaniel-c-00b128255/)
+* [Valiantsin Kasabrukhau, Duke](https://www.linkedin.com/in/valiantsin-kasabrukhau/) — Spring 2026 - Present, **ACM HotMobile 2026 Best Demo Award**.
+* Noella Yang — Fall 2026 - Present.
+* [Sulaiman Khydyr uulu, Duke](https://www.linkedin.com/in/sulaimankhydyr/) — Spring 2026, **ACM HotMobile 2026 Best Demo Award**.
+* [Jamie Tan, Duke](https://www.linkedin.com/in/jamietandev/) — Spring 2026.
+* [Sofia Radkova, Duke](https://www.linkedin.com/in/sofa-radkova/) — Spring 2026.
+* [Skylar Knight, Duke](https://www.linkedin.com/in/skylarhknight/) — Fall 2025 - Spring 2026, *Graduation with Distinction*.
+* [Nathaniel Corey, Duke](https://www.linkedin.com/in/nathaniel-c-00b128255/) — Spring 2026.
 
+### High School Students
 
-<strong>Supervised K-12 students:
-* Adrian Willett, Duke
-* Dhun Pandya, Duke
+* Adrian Willett, Duke — Summer 2025, now an undergraduate student at the University of Toronto.
+* Dhun Pandya, Duke — Summer 2025, now an undergraduate student at the North Carolina State University.
 
 <strong>Alternate Lecturer:
 * Winter, 2025-2026, Computer Network Architecture (ECE/COMPSCI 356, Duke)
