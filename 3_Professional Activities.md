@@ -52,6 +52,13 @@ sidebar_link: true
 * IEEE Wireless Communications Letters (WCL)
 
 
+<strong>Supervised Ph.D. students:
+
+* Tianyuan Du
+* Christian Fronk
+* Amir Sabbaghziarani
+
+
 <strong>Supervised M.S. students:
 
 * [Niels van der Kolk, TU Delft](https://www.linkedin.com/in/niels-van-der-kolk-a61b50174/)
@@ -59,11 +66,16 @@ sidebar_link: true
 * [Yanhe Zhu, Duke](www.linkedin.com/in/yanhe-zhu-duke-ece)
 * [Qi Chen, Duke](https://www.linkedin.com/in/qi-chen-426318327/)
 * Christine Yang, Duke
+* James Yong
+* Diego Medina Molina
+* Jiacheng Guo
+* Hao Liu
 
 
 <strong>Supervised B.S. students:
 
 * [Valiantsin Kasabrukhau, Duke](https://www.linkedin.com/in/valiantsin-kasabrukhau/)
+* Noella Yang
 * [Sulaiman Khydyr uulu, Duke](https://www.linkedin.com/in/sulaimankhydyr/)
 * [Jamie Tan, Duke](https://www.linkedin.com/in/jamietandev/)
 * [Sofia Radkova, Duke](https://www.linkedin.com/in/sofa-radkova/)
