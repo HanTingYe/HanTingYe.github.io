@@ -60,6 +60,7 @@ sidebar_link: true
 
 ### Master's Students
 
+* [Spades Zhou](https://www.linkedin.com/in/yiqin-spades-zhou-53b903383/) — Fall 2026 - Present.
 * Christine Yang, Duke — Fall 2025 - Present.
 * [James Yong](https://www.linkedin.com/in/jamesyong42/) — Fall 2025 - Present.
 * [Diego Medina Molina](https://www.linkedin.com/in/diego-a-medina-molina/) — Summer 2026 - Present.
